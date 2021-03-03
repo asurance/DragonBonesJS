@@ -3,7 +3,6 @@
 		"watch": false,
 		"sourceMap": false,
 		"declaration": true,
-        "stripInternal": true,
 		"alwaysStrict": true,
 		"noImplicitAny": true,
 		"noImplicitThis": true,
@@ -13,7 +12,7 @@
 		"experimentalDecorators": true,
 		"allowSyntheticDefaultImports": true,
 		"target": "es5",
-		"outFile": "out/dragonBones.js",
+		"outFile": "../../dragonbones/dragonBones.js",
 		"lib": [
 			"es5",
 			"dom",
